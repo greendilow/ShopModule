@@ -4,4 +4,7 @@
     'author': 'Polina Greendilow',
     'depends': ['base'],
     'application': True,
+    'data': [
+        'views/shop_menu.xml',
+    ],
 }

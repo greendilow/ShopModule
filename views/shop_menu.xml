@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+  <odoo>
+    <!-- Web Shop App Menu -->
+    <menuitem id="menu_shop"
+      name="Web Shop" />
+  </odoo>
